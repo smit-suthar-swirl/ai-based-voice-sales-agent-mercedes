@@ -1,0 +1,1 @@
+export const SOCKET_URL_ENDPOINT = "http://localhost:4000"
