@@ -1,0 +1,21 @@
+{
+  "name": "ai-based-sales-agent-mercedes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sh start.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smit-suthar-swirl/ai-based-voice-sales-agent-mercedes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smit-suthar-swirl/ai-based-voice-sales-agent-mercedes/issues"
+  },
+  "homepage": "https://github.com/smit-suthar-swirl/ai-based-voice-sales-agent-mercedes#readme"
+}
